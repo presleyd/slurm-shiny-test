@@ -6,19 +6,31 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.9.20",
+    "version": "3.9.19",
     "package_manager": {
       "name": "pip",
-      "version": "25.1.1",
+      "version": "24.0",
       "package_file": "requirements.txt"
     }
   },
   "files": {
     "requirements.txt": {
-      "checksum": "359011c8f37d217ad29f22d8d0ab38ec"
+      "checksum": "3104b438400344209a9f242f7ddcb3c6"
+    },
+    ".Renviron": {
+      "checksum": "14e69c47eba5841fd64c624dbc913fb3"
+    },
+    ".shiny_env.sh": {
+      "checksum": "61311327deb97eefb3fdd0497a1ae9d4"
+    },
+    "README.md": {
+      "checksum": "fa11f66cfb0fd3e5b46555a1da1ec1f9"
     },
     "app.py": {
       "checksum": "6742a2f4249be5ccada1b5318462e992"
+    },
+    "slurm_test.Rproj": {
+      "checksum": "729e66776d91d6eae471c913b3c498e2"
     }
   }
 }
