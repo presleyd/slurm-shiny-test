@@ -1,4 +1,0 @@
-# .Renviron
-# Source profile to enable 'module'
-BASH_ENV=~/.shiny_env.sh
-
